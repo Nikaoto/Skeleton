@@ -2,12 +2,14 @@
 This is a custom Skeleton fork designed to make bootstrapping a new website quick for me and other 
 users of Kartvelian languages.
 
+You can find the original Skeleton at https://github.com/dhg/Skeleton
+
+
 ## Getting started
 `git clone https://github.com/Nikaoto/Skeleton.git`
 
-## Included Content
-My boilerplate includes everything needed for quickly creating a simple static website.
 
+## Included Content
 Major additions include the Georgian BPG WEB 001 font and a custom normalize.min.css (v8.0).
 
 ```
@@ -25,6 +27,7 @@ Skeleton/
     └── bpg-web-001-webfont.woff2
 
 ```
+
 
 ## License
 This code is released under the MIT license, which you can find at 
