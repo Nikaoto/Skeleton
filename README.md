@@ -10,7 +10,8 @@ You can find the original Skeleton at https://github.com/dhg/Skeleton
 
 
 ## Included Content
-Major additions include the Georgian BPG WEB 001 font and a custom normalize.min.css (v8.0).
+Major additions include the Georgian [BPG WEB 001](https://web-fonts.ge/bpg-web-001/) font and a 
+custom normalize.min.css (v8.0).
 
 ```
 Skeleton/
