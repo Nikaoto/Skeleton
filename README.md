@@ -11,7 +11,9 @@ You can find the original Skeleton at https://github.com/dhg/Skeleton
 
 ## Included Content
 Major additions include the Georgian [BPG Arial](https://web-fonts.ge/bpg-arial) font and a 
-normalize.min.css (v8.0) customized for Georgian typefaces.
+`normalize.min.css` (v8.0) customized for Georgian typefaces.
+
+`main.css` is deliberately left empty.
 
 ```
 Skeleton/
@@ -19,7 +21,8 @@ Skeleton/
 ├── css/
 │   ├── bpg-arial.css
 │   ├── normalize.min.css
-│   └── skeleton.css
+│   ├── skeleton.css
+│   └── main.css
 ├── images/
 │   └── favicon.png
 └── fonts/
