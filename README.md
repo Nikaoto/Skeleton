@@ -10,22 +10,22 @@ You can find the original Skeleton at https://github.com/dhg/Skeleton
 
 
 ## Included Content
-Major additions include the Georgian [BPG WEB 001](https://web-fonts.ge/bpg-web-001/) font and a 
+Major additions include the Georgian [BPG Arial](https://web-fonts.ge/bpg-arial) font and a 
 custom normalize.min.css (v8.0).
 
 ```
 Skeleton/
 ├── index.html
 ├── css/
-│   ├── bpg-web-001.css
+│   ├── bpg-arial.css
 │   ├── normalize.min.css
 │   ├── normalize.css
 │   └── skeleton.css
 ├── images/
 │   └── favicon.png
 └── fonts/
-    ├── bpg-web-001-webfont.woff
-    └── bpg-web-001-webfont.woff2
+    ├── bpg-arial.woff
+    └── bpg-arial.woff2
 
 ```
 
