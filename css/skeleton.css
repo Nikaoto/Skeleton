@@ -157,6 +157,8 @@ p {
   margin-top: 0;
   font-size: 1.7rem; }
 
+.ka {
+  font-family: "BPG WEB 001", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -304,7 +306,7 @@ ol ul {
   margin: 1.5rem 0 1.5rem 3rem;
   font-size: 90%; }
 li {
-  margin-bottom: 1rem; }
+  margin-bottom: 0.3rem; }
 
 
 /* Code
