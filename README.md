@@ -6,14 +6,15 @@ You can find the original Skeleton at https://github.com/dhg/Skeleton
 
 
 ## Getting started
-`git clone https://github.com/Nikaoto/Skeleton.git`
+Clone the repository and start working without a hitch:
+```
+git clone https://github.com/Nikaoto/Skeleton.git
+```
 
 
 ## Included Content
 Major additions include the Georgian [BPG Arial](https://web-fonts.ge/bpg-arial) font and a 
 `normalize.min.css` (v8.0) customized for Georgian typefaces.
-
-`main.css` is deliberately left empty.
 
 ```
 Skeleton/
@@ -30,6 +31,10 @@ Skeleton/
     └── bpg-arial.woff2
 
 ```
+
+`index.html` includes sample code and `main.css` is deliberately left empty.
+
+Both are there to help you jump into a new project with minimal friction. 
 
 
 ## License
