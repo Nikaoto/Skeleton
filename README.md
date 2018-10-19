@@ -36,6 +36,9 @@ Skeleton/
 
 Both are there to help you jump into a new project with minimal friction. 
 
+`skeleton.css` also has some minor compatibility changes including a `ka` 
+selector which you can put on any tag to enable the included Georgian font.
+
 
 ## License
 This code is released under the MIT license, which you can find at 
